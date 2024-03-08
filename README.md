@@ -6,6 +6,8 @@ el descuento, tbis y el monto neto a pagar. El monto neto para pagar es igual a 
 total, menos descuentos, más ITBIS.
 La escala es la siguiente:
 Escala Porcentaje
+
+
 1,000 – 5,000 N/A
 
 ![Captura-No aplica](https://github.com/wilmer89419/Ejercicio9-Descuento_Articulos/assets/153393033/777b2ef3-c4c7-49d6-8e72-16716ee445e6)
